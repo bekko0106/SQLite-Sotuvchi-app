@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/DbReferenses/app/src/main/res/layout/activity_main.xml" value="0.38333333333333336" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/DbReferenses/app/src/main/res/layout/fragment_buyurma.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/DbReferenses/app/src/main/res/layout/fragment_buyurtma.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/DbReferenses/app/src/main/res/layout/fragment_home.xml" value="0.38333333333333336" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/DbReferenses/app/src/main/res/layout/fragment_sotuv.xml" value="0.38333333333333336" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/DbReferenses/app/src/main/res/layout/fragment_xarid.xml" value="0.3692708333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/DbReferenses/app/src/main/res/layout/item_dialog.xml" value="0.33" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/DbReferenses/app/src/main/res/layout/item_dialog_orders.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/DbReferenses/app/src/main/res/layout/item_sotuvchi_rv.xml" value="0.22" />
+        <entry key="..\:/Users/user/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_expandable_list_item_1.xml" value="0.38697916666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

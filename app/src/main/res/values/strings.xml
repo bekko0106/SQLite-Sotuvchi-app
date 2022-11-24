@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DbReferenses</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sotuvchu">Sotuvchu</string>
+    <string name="sotuvchi">Sotuvchi</string>
+    <string name="xaridor">Xaridor</string>
+    <string name="buyurtma">Buyurtma</string>
+    <string name="sotuvchi_qoshish">Sotuvchi qoshish</string>
+    <string name="name">Name</string>
+    <string name="number">Number</string>
+    <string name="save">Save</string>
+    <string name="adress">Adress</string>
+    <string name="buyurtma_qoshish">Buyurtma Qoshish</string>
+    <string name="price">Price</string>
+</resources>
