@@ -7,30 +7,31 @@
     android:gravity="center"
     android:padding="20sp"
     android:orientation="vertical"
-    tools:context=".fragment.HomeFragment">
+    tools:context=".fragment.HomeFragment"
+    >
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="50dp"
-        android:id="@+id/btn_sotuvchi"
+        android:id="@+id/btn_sotuvchi_qoshish"
         android:textSize="20sp"
         android:layout_margin="6dp"
         android:textAllCaps="false"
-        android:text="Sotuvchi"/>
+        android:text="Sotuvchi Qoshish"/>
     <Button
         android:layout_width="match_parent"
         android:layout_height="50dp"
-        android:id="@+id/btn_xaridor"
+        android:id="@+id/btn_xaridor_qoshish"
         android:textSize="20sp"
         android:layout_margin="6dp"
         android:textAllCaps="false"
-        android:text="Xaridor"/>
+        android:text="Xaridor Qoshish"/>
     <Button
         android:layout_width="match_parent"
         android:layout_height="50dp"
-        android:id="@+id/btn_buyurtma"
+        android:id="@+id/btn_buyurtma_berish"
         android:textSize="20sp"
         android:layout_margin="6dp"
         android:textAllCaps="false"
-        android:text="Buyurtma"/>
+        android:text="Buyurtma Berish"/>
 </LinearLayout>

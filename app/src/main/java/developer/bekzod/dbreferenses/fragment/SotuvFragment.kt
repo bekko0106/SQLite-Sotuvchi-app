@@ -1,4 +1,4 @@
-package com.example.dbreference.fragment
+package developer.bekzod.dbreferenses.fragment
 
 import android.os.Bundle
 import android.view.LayoutInflater
